@@ -1,9 +1,5 @@
-//
 //  NotesAppApp.swift
 //  NotesApp
-//
-//  Created by Arihant Marwaha on 14/07/25.
-//
 
 import SwiftUI
 
